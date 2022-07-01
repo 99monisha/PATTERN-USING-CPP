@@ -33,7 +33,7 @@ Pattern-4<br>
 1 2 <br>
 1<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-4.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-5.cpp">
 Pattern-5<br>
 * * * * * <br>
 * * * *<br> 
