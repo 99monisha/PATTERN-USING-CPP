@@ -41,6 +41,14 @@ Pattern-5<br>
 * *<br>
 * <br>
 </a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-6.cpp">
+Pattern-6<br>
+5 5 5 5 5 <br>
+4 4 4 4 <br>
+3 3 3 <br>
+2 2 <br>
+1<br>
+</a></h2>
 
 
 
