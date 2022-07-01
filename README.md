@@ -49,6 +49,30 @@ Pattern-6<br>
 2 2 <br>
 1<br>
 </a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-7.cpp">
+Pattern-7<br>
+    1<br>
+   12<br>
+  123<br>
+ 1234<br>
+12345<br>
+</a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-8.cpp">
+Pattern-8<br>
+    #<br>
+   ##<br>
+  ###<br>
+ ####<br>
+#####<br>
+</a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-9.cpp">
+Pattern-9<br>
+    1<br>
+   22<br>
+  333<br>
+ 4444<br>
+55555<br>
+</a></h2>
 
 
 
