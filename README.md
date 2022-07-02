@@ -69,6 +69,14 @@ Pattern-11<br>
 1 2 3 4 5 6 7 <br>
 1 2 3 4 5 6 7 8 9 <br>
 </a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-12.cpp">
+Pattern-12<br>
+* <br>
+* * * <br>
+* * * * * <br>
+* * * * * * * <br>
+* * * * * * * * *<br>
+</a></h2>
 
 
 
