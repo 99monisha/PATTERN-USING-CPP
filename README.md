@@ -57,6 +57,9 @@ Pattern-8<br>
 <h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-9.cpp">
 Pattern-9<br>
 </a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-10.cpp">
+Pattern-10<br>
+</a></h2>
 
 
 
