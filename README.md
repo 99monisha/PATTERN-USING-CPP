@@ -51,6 +51,7 @@ Pattern-6<br>
 </a></h2>
 <h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-7.cpp">
 Pattern-7<br>
+</a></h2>
 <h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-8.cpp">
 Pattern-8<br>
 </a></h2>
@@ -60,6 +61,15 @@ Pattern-9<br>
 <h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-10.cpp">
 Pattern-10<br>
 </a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-11.cpp">
+Pattern-11<br>
+1 <br>
+1 2 3 <br>
+1 2 3 4 5 <br>
+1 2 3 4 5 6 7 <br>
+1 2 3 4 5 6 7 8 9 <br>
+</a></h2>
+
 
 
 
