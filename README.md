@@ -109,6 +109,22 @@ Pattern-16<br>
 * * * * * * * *  <br>
 * * * * * * * * * *  <br>
 </a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-17.cpp">
+Pattern-17<br>
+a  <br>
+b b  <br>
+c c c  <br>
+d d d d  <br>
+e e e e e <br>
+</a></h2>
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-18.cpp">
+Pattern-18<br>
+y <br> 
+x x  <br>
+w w w  <br>
+v v v v  <br>
+u u u u u  <br>
+</a></h2>
 
 
 
