@@ -103,6 +103,11 @@ Pattern-15<br>
 </a></h2>
 <h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-16.cpp">
 Pattern-16<br>
+* *  <br>
+* * * *  <br>
+* * * * * *  <br>
+* * * * * * * *  <br>
+* * * * * * * * * *  <br>
 </a></h2>
 
 
