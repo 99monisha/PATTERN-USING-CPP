@@ -149,7 +149,10 @@ Pattern-23<br>
   <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-24.cpp">
 Pattern-24<br>
 </a></h2>
-
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-25.cpp">
+Pattern-25<br>
+</a></h2>
 
 
 
