@@ -141,6 +141,7 @@ Pattern-21<br>
   <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-22.cpp">
 Pattern-22<br>
 </a></h2>
+<h2>
  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-23.cpp">
 Pattern-23<br>
 </a></h2>
