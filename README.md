@@ -125,6 +125,22 @@ w w w  <br>
 v v v v  <br>
 u u u u u  <br>
 </a></h2>
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-19.cpp">
+Pattern-19<br>
+</a></h2>
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-20.cpp">
+Pattern-20<br>
+</a></h2>
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-21.cpp">
+Pattern-21<br>
+</a></h2>
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-22.cpp">
+Pattern-22<br>
+</a></h2>
 
 
 
