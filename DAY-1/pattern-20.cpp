@@ -1,10 +1,10 @@
 /*
 5
-    1 
-   1 2 
-  1 2 3 
- 1 2 3 4 
-1 2 3 4 5 
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
 
 */
 
@@ -12,7 +12,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{ 
     int n,i,j,k;
     cin>>n;
     for(i=1;i<=n;i++)
@@ -21,9 +21,9 @@ int main()
         {
             cout<<" ";
         }
-        for(j=1;j<=i;j++)
+        for(j=1;j<=n;j++)
         {
-            cout<<j<<" ";
+            cout<<"*"<<" ";
         }
         cout<<endl;
     }
