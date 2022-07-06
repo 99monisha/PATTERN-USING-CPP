@@ -169,6 +169,14 @@ Pattern-28<br>
   <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-29.cpp">
 Pattern-29<br>
 </a></h2>
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-30.cpp">
+Pattern-30<br>
+</a></h2>
+<h2>
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-31.cpp">
+Pattern-31<br>
+</a></h2>
 
 
 
